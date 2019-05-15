@@ -1,0 +1,9 @@
+<ValueSetList>
+	<ValueSet>
+		<VocabularyList code="Sex" displayName="性别">
+			<Vocabulary code="M" displayName="男" />
+			<Vocabulary code="F" displayName="女" />
+		</VocabularyList>
+	</ValueSet>
+</ValueSetList>
+
