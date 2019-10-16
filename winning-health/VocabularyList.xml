@@ -1,7 +1,7 @@
 <ValueSetList value="winning-health-valueset-list" name="卫宁健康值域集合">
 	<ValueSet value="Sex" name="性别">
 		<VocabularyList>
-			<Vocabulary value="M" name="男" />
+			<Vocabulary value="M" name="男1" />
 			<Vocabulary value="F" name="女" />
 		</VocabularyList>
 	</ValueSet>
